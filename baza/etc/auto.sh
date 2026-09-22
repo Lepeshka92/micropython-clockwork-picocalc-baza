@@ -1,0 +1,2 @@
+ver
+wifi status
